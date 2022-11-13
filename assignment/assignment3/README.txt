@@ -1,0 +1,1 @@
+run kpca_script.m for exs1.1 (file defined by teacher)
